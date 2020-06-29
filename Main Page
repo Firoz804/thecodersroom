@@ -1,8 +1,8 @@
 <DOCTYPE html>
 <html>
 <body>
-<h1> FIROZ NAUSHAD </h1>
+<h1 style="color: blue; font-family: 'Helvetica Neue', sans-serif;"> FIROZ NAUSHAD </h1>
 <hr>
-Follow me on <a href ="https://github.com/Firoz804"> GitHub </a>
+Follow me on <a href ="https://github.com/Firoz804" style="color: green;"> GitHub </a>
 </body>
 </html>
